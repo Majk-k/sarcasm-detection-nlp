@@ -103,6 +103,12 @@ sarcasm-detector/
 
 ## How to Run
 
+Clone the repository:
+```bash
+git clone https://github.com/Majk-k/sarcasm-detection-nlp
+cd sarcasm-detection-nlp
+```
+
 ### 1. (Optional) Create and activate a virtual environment
 ```
 python -m venv .venv
